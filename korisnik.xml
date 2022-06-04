@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korisnici>
+<korisnik>
+	<username>nvorel</username>
+	<password>12345</password>
+	<ime>Nikolina</ime>
+    <prezime>Vorel</prezime>
+	
+</korisnik>
+<korisnik>
+	<username>asimec</username>
+	<password>12345</password>
+	<ime>Alen</ime>
+    <prezime>Šimec</prezime>
+</korisnik>
+</korisnici>
